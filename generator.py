@@ -20,6 +20,7 @@ class LinkedInPostGenerator:
         api_key = os.getenv("GEMINI_API_KEY")
 
         # 2. FALLBACK: If the environment variable is missing or broken, paste your key below
+        if api_key or api_key == "YOUR_OLD_KEY":
             api_key = "YOUR_API_KEY_HERE"
 
         if not api_key:
