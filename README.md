@@ -1,3 +1,4 @@
+<img width="1902" height="857" alt="Screenshot 2026-07-10 102521" src="https://github.com/user-attachments/assets/08845f34-b9b0-42a5-8ede-0a6ddb174fad" />
 # 🚀 LinkedDev-AI
 
 Transform GitHub repositories, technical blogs, and documents into polished, developer-focused LinkedIn posts in seconds!
