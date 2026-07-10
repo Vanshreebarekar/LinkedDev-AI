@@ -21,7 +21,7 @@ class LinkedInPostGenerator:
 
         # 2. FALLBACK: If the environment variable is missing or broken, paste your key below
         if not api_key or api_key == "YOUR_OLD_KEY":
-            api_key = "AQ.Ab8RN6JkBUw-OJjazyxywxKfiGRw537WcfBOJ0LcokRfiZYiKw"
+            api_key = "YOUR_API_KEY_HERE"
 
         if not api_key:
             raise ValueError("Missing Configuration: GEMINI_API_KEY could not be verified.")
